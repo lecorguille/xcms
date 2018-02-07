@@ -16,7 +16,7 @@ Depends:
     BiocParallel (>= 1.8.0),
     MSnbase (>= 2.3.11)
 Imports:
-    mzR (>= 2.13.1),
+    mzR (>= 2.12.0),
     BiocGenerics,
     ProtGenerics,
     lattice,
